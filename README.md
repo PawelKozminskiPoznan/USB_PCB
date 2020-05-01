@@ -1,6 +1,8 @@
 # USB_PCB
 USB project
 
+Technologia: Altium Designer
+
 Zadaniem Było zaprojektowanie obwodu drukowanego dla urządzenia PenDrive zgodnego ze standardem USB 2.0. Na PCB umieścić należy:
 1. gniazdo USB typ A męskie
 2. kość pamięci FLASH 32 GB
