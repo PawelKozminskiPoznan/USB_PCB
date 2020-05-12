@@ -12,8 +12,8 @@ Zadaniem Było zaprojektowanie obwodu drukowanego dla urządzenia PenDrive zgodn
 6. otwór okrągły o średnicy 3 mm do przykręcenia PCB do obudowy
 7. 16 styków serwisowych
 
-[!lay](lay.png)
+![lay](lay.png)
 
-[!lay2](lay2.png)
+![lay2](lay2.png)
 
-[!components](components.png)
+![components](components.png)
