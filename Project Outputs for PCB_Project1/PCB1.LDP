@@ -1,0 +1,3 @@
+Layer Pairs Export File for PCB: D:\Klepczuk_Kozminski19\PCB\USB\PCB1.PcbDoc
+LayersSetName=Top_Bot_Thru_Holes|DrillFile=pcb1-roundholes.txt|LayerPairs=gtl,gbl
+LayersSetName=Top_Bot_Square_Holes|DrillFile=pcb1-squareholes.txt|LayerPairs=gtl,gbl
