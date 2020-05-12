@@ -11,3 +11,9 @@ Zadaniem Było zaprojektowanie obwodu drukowanego dla urządzenia PenDrive zgodn
 5. dioda LED sygnalizująca stan pracy
 6. otwór okrągły o średnicy 3 mm do przykręcenia PCB do obudowy
 7. 16 styków serwisowych
+
+[!lay](lay.png)
+
+[!lay2](lay2.png)
+
+[!components](components.png)
