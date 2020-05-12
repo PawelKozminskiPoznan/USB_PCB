@@ -1,0 +1,9 @@
+Added Component: Designator=U3(USON)
+Added Pin To Net: NetName=V5 Pin=U3-1
+Added Pin To Net: NetName=V5 Pin=U3-2
+Added Pin To Net: NetName=GND Pin=U3-3
+Added Pin To Net: NetName=NetL1_1 Pin=U3-4
+Added Pin To Net: NetName=V3_3 Pin=U3-5
+Added Pin To Net: NetName=GND Pin=U3-6
+Added Member To Class: ClassName=Sheet1 Member=Component U3 Voltage converter
+Added Room: Name=Sheet1
